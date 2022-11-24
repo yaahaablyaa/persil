@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 300px;
+    height: 500px;
+    margin: 50px auto;
+    border-radius: 20px;
+    box-shadow: 5px 10px 10px #686868;
+}
+
+.imgg {
+    width: 300px;
+    height: 360px;
+    display: flex
+}
+
+.img {
+    width: 200px;
+    height: 250px;
+    margin-top: 15px;
+    margin-left: 50px ;
+}
+
+.cost {
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.span {
+    color: #5c5555;
+}
+
+.price {
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
